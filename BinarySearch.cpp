@@ -18,5 +18,8 @@ void input()
             break;
         }
         else
+        {
+            cout << "\n{!} Jumlah elemen tidak boleh lebih dari 10. Silakan coba lagi.\n";
+        }
     }
 }
